@@ -1,4 +1,4 @@
-# Project Title :  **GitHub Front-End Sign In & Sign Up Slider Form**
+# **GitHub Front-End Sign In & Sign Up Slider Form**
 
 **Project Description:**
 
@@ -20,12 +20,12 @@ Modern Styling: The project boasts a clean and modern design that aligns with Gi
 
 Validation: Input validation ensures that user-provided information meets the required criteria and helps prevent erroneous submissions.
 
-Technologies Used:
+**Technologies Used:**
 
 HTML, CSS: For structuring and styling the web application.
 JavaScript: For implementing the sliding functionality and form validation.
 
-Usage:
+**Usage:**
 
 Users can access the application through a web browser.
 On the landing page, they are presented with the slider form.
