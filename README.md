@@ -1,4 +1,4 @@
-**Project Title **:  **GitHub Front-End Sign In & Sign Up Slider Form**
+# Project Title :  **GitHub Front-End Sign In & Sign Up Slider Form**
 
 **Project Description:**
 
